@@ -1,8 +1,5 @@
 # WatchStack 🎬📺
 
-![App Screenshot](./public/images/Screenshot 2025-03-26 225021.png)
-
-
 **WatchStack** is a movie and TV show tracking platform inspired by Letterboxd. Users can browse movies and TV shows, leave comments, add them to their favorites or watchlist, and see other users' activity.
 
 ## Features
