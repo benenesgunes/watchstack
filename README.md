@@ -19,6 +19,7 @@
 ## Tech Stack
 - **Frontend:** React, Vite, Tailwind CSS
 - **State & Data Fetching:** React Query
+- **Data From:** OMDb API
 - **Routing:** React Router DOM
 - **Backend:** Firebase (Authentication, Database, Storage)
 
