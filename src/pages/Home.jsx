@@ -8,20 +8,6 @@ import Venom from "../assets/venom.jpg";
 import JohnWick from "../assets/johnwick.jpg";
 import Daredevil from "../assets/daredevil.jpg"
 
-// filmlere yorum yapma eklenecek
-// yorum yapilan filmleri eklemek icin firebasede db altinda commentedTitles diye collection olustur
-// filmin imdbID'sini yorumu yapan kisinin kullanici adini kaydet commentedTitles'a rastgele bi doc id olusturarak (addDoc kullan yani)
-// TitlePage'de de yorumlar diye listeleyip goruntule 
-
-// su da koyulsa guzel olur:
-// 10 uzerinden rating. yorum eklerken bi input daha verilir en fazla 10 girilecek sekilde TitlePage'deki yorumlarda o da gozukur commentedMovies'e userRating diye de eklersin
-// hatta userRatinglerin ortalamasi alinabilir watchstack rating diye de istatistik eklenebilir
-
-// bi ozellik daha:
-// kullanici profili goruntuleme eklenebilir
-// her kullanicinin favorileri ve yorumlari goruntulenebilir
-// bunun icin username ile kullanici arama ozelligi de getirilmesi lazim tabi
-
 function Home() {
     const [user, setUser] = useState();
     const [loading, setLoading] = useState(true);
