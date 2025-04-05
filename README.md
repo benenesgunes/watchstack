@@ -1,4 +1,4 @@
-# WatchStack 🎬📺
+# WatchStack 
 
 ![Home Page](./public/images/homepage.png)
 ![Title Page](./public/images/titlepage.png)
